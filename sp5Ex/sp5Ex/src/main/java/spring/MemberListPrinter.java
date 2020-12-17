@@ -1,4 +1,4 @@
-package spring.chap03;
+package spring;
 
 import java.util.Collection;
 
